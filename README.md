@@ -1,10 +1,10 @@
 # Auto-Scroll-ViewPager-Android
-Auto Scroll ViewPager Android Tutotrial Step by Step
+Auto Scroll ViewPager Android Tutorial Step by Step
 
 In this blog explained steps of implementation Auto Scroll ViewPager. Apart from this, I have tried to cover all best practices with latest technology. How to do that Let's see
 
 Implementation steps of Auto Scroll ViewPager 
-- Project step and maintain depedencies
+- Project step and maintain dependencies
 - Write a custom AutoScrollViewPager 
 - Create A fragment that maintain the scroll view
 - Add ViewPager and TabLayout inside the activity_main layout files.
