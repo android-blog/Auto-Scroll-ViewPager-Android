@@ -16,4 +16,4 @@ Implementation steps of Auto Scroll ViewPager
 
 After following all step Auto Scroll ViewPager works perfectly 
 
-## References Article - [Auto Scroll ViewPager Android Tutotrial](https://androidwave.com/auto-scroll-viewpager-android/)
+### References Article - [Auto Scroll ViewPager Android Tutotrial](https://androidwave.com/auto-scroll-viewpager-android/)
